@@ -1,0 +1,14 @@
+{
+  "name": "nationalday",
+  "version": "1.0.0",
+  "description": "solving all nationalDay challenges",
+  "main": "first.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "abdulaziz Qannam",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.2.1"
+  }
+}
